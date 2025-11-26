@@ -10,7 +10,7 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 ------
 
-2.**📈 Euromart Sales & Profitability Analysis**
+2. **📈 Euromart Sales & Profitability Analysis**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**:https://github.com/Harshanth-v/Exploratory-Data-Analysis/tree/c5ca17584d0268a58813db3f84c648e0997ce80f/Euromart
