@@ -3,32 +3,32 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 ## 📚 Table of Contents
 
-1. **🏎️ Cars**
-   - **Description**: A comprehensive exploratory data analysis (EDA) of the Cars dataset to uncover trends, patterns, and key performance insights.
-   - **Tools**: Python, Pandas, Seaborn, SQL.
-   - **Link**:https://github.com/Harshanth-v/Exploratory-Data-Analysis/tree/c5ca17584d0268a58813db3f84c648e0997ce80f/cars
-
- ------
-
-2. **🎇 Diwali Sales Analysis**
+1. **🎇 Diwali Sales Analysis**
    - **Description**: Analyzing Diwali sales data to uncover consumer behavior and sales trends during the festive season.
    - **Tools**: Python, Pandas, Seaborn, SQL.
    - **Link**:https://github.com/Harshanth-v/Exploratory-Data-Analysis/tree/c5ca17584d0268a58813db3f84c648e0997ce80f/Diwali
 
 ------
 
-3.**📈 Euromart Sales & Profitability Analysis**
+2.**📈 Euromart Sales & Profitability Analysis**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**:https://github.com/Harshanth-v/Exploratory-Data-Analysis/tree/c5ca17584d0268a58813db3f84c648e0997ce80f/Euromart
 
 ------
 
-4. **🩻 Stroke**
+3. **🩻 Stroke**
    - **Description**: Detailed examination of sales performance and profitability across different regions and product categories.
    - **Tools**: Python, Pandas, Matplotlib, SQL.
    - **Link**:https://github.com/Harshanth-v/Exploratory-Data-Analysis/tree/c5ca17584d0268a58813db3f84c648e0997ce80f/Stroke
 
+-------
+
+4. **🏎️ Cars**
+   - **Description**: A comprehensive exploratory data analysis (EDA) of the Cars dataset to uncover trends, patterns, and key performance insights.
+   - **Tools**: Python, Pandas, Seaborn, SQL.
+   - **Link**:https://github.com/Harshanth-v/Exploratory-Data-Analysis/tree/c5ca17584d0268a58813db3f84c648e0997ce80f/cars
+  
 -------
 
 5. **⛈️ Weather**
